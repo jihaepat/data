@@ -1,0 +1,10 @@
+*.jpg
+*.jpeg
+*.png
+*.swp
+.idea/
+ssdlite_mobilenet_v2_coco_2018_05_09/
+raw/
+models/
+tfrecord/
+
