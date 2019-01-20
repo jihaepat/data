@@ -11,4 +11,5 @@ tfrecord/
 *.txt.updated.txt
 003_special/
 003_special2/
+check_*.txt
 
