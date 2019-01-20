@@ -1,6 +1,6 @@
 electric/2.jpg,303,157,541,215,numberplate
 electric/20170317102638.jpg,24,54,555,348,numberplate
-electric/20180227_141311.jpg,679,1020,1271,1176,numberplate
+electric/20180227_141311.jpg,432,649,805,744,numberplate
 electric/I0ugrwd-3AeqZVRnD9o8XeaauKT4.jpg,222,128,387,174,numberplate
 electric/IS6tM-Zl30uhT0QOyIEP-KDDGe2w.jpg,28,153,471,257,numberplate
 electric/externalFile.jpg,393,212,667,304,numberplate
@@ -75,7 +75,7 @@ internet/201740022826R4.jpg,119,236,244,288,numberplate
 internet/201740023610R4.jpg,136,201,267,249,numberplate
 internet/201740030290R4.jpg,150,219,283,271,numberplate
 internet/20180103_110953.jpg,77,186,632,320,numberplate
-internet/567612_176937_82.jpg,431,298,517,330,numberplate
+internet/567612_176937_82.jpg,436,301,512,326,numberplate
 internet/656121100325R4.jpg,109,224,202,256,numberplate
 internet/IpEXHmOphduF1SRRlIjfxuHgRLxo.jpg,174,222,478,293,numberplate
 internet/img_1866_dlghcjf70.jpg,121,88,640,338,numberplate
