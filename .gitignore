@@ -14,4 +14,5 @@ tfrecord/
 003_special2/
 check_*.txt
 _backup/
+sampling_*.txt
 
